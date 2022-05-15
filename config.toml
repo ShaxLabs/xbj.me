@@ -63,9 +63,9 @@ pygmentscodefencesguesssyntax = true
 # Your socail's url
 [social]
   github = " "
-  twitter = " "
+  twitter = "http://twitter.com/shaxlabs"
   facebook = " "
-  weibo = "http://twitter.com/shaxlabs"
+  weibo = " "
   instagram = " "
 
 [markup]
