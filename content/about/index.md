@@ -9,5 +9,7 @@ Web3 Elf，收集Web3的资讯，研究Web3的理念和技术。总之，这里�
 
 合作请添加微信：24967604(注明来意)
 
+联系邮箱：houqun.me@gmail.com
+
 ![微信](/images/thuhhqq.jpg)
 
