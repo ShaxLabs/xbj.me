@@ -1,7 +1,7 @@
 baseURL = "https://web3elf.com/"
 languageCode = "zh"
 defaultContentLanguage = "zh"
-title = "Web3 Elf"                         # site title  # 网站标题
+title = "Web3 精灵"                         # site title  # 网站标题
 theme = "zozo"
 hasCJKLanguage = true                  # has chinese/japanese/korean ?  # 自动检测是否包含 中文\日文\韩文
 summaryLength = 100
