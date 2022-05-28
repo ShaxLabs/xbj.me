@@ -42,7 +42,7 @@ pygmentscodefencesguesssyntax = true
   url = "/about/"
 
 [params]
-  subTitle = "专注Web3的一切"                                      	# site's subTitle  # 网站二级标题
+  subTitle = "All About Web3"                                      	# site's subTitle  # 网站二级标题
   footerSlogan = ""                                    					# site's footer slogan  # 网站页脚标语
   keywords = ["Web3","元宇宙","NFT","加密货币","区块链"]                       # site's keywords  # 网站关键字
   description = "专注于Web3的一切"                 	# site's description  # 网站描述
