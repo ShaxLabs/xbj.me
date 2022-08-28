@@ -1,15 +1,15 @@
 ---
 title: "关于"
-date: 2022-05-16T00:34:56+08:00
+date: 2022-08-18T21:00:00+08:00
 hidden: true
 draft: false
 ---
 
-Web3 Elf，收集Web3的资讯，研究Web3的理念和技术。总之，这里一切均关于Web3。
+[XBJ.ME](https://xbj.me)，小笔记，整理并分享有关阅读、思考、学习和践行的笔记。所有笔记，都是自己的阅读、思考和实践的高价值内容。
 
 合作请添加微信：hzwx9001(注明来意)
 
-联系邮箱：houqun.me@gmail.com
+联系邮箱：houqun+xbj@gmail.com
 
 ![微信](/images/hzwx9001.jpg)
 
