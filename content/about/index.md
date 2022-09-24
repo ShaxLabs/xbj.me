@@ -11,7 +11,7 @@ draft: false
 
 欢迎各位朋友阅读，并一起沟通交流。
 
-邮件订阅，请到[这里](http://zhiy.cc/xbjme)
+请移步[邮件订阅](http://zhiy.cc/xbjme)，每周用邮箱来查阅内容。
 
 合作请添加微信：hzwx9001(注明来意)
 
