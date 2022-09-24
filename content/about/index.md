@@ -11,6 +11,8 @@ draft: false
 
 欢迎各位朋友阅读，并一起沟通交流。
 
+邮件订阅，请到[这里](http://zhiy.cc/xbjme)
+
 合作请添加微信：hzwx9001(注明来意)
 
 联系邮箱：houqun+xbj@gmail.com
