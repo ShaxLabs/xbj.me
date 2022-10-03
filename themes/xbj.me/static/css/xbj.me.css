@@ -736,6 +736,9 @@ a.back_to_top:hover span {
 /*animation ends*/
 
 /* sidebar starts */
+.content_container{
+  display:block;
+}
 .sidebar{
   width: 250px;
   margin:0 50px 0 0;
