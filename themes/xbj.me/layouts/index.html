@@ -4,11 +4,13 @@
     <div class="main animate__animated animate__fadeInDown">
         {{ partial "nav.html" . }}
         {{ partial "header.html" . }}
-        <div class="content">
-            {{ partial "post.html" .}}
-        </div>
-        <div class="sidebar">
-        	
+        <div class="content_container">
+            <div class="content">
+                {{ partial "post.html" .}}
+            </div>
+            <div class="sidebar">
+
+            </div>
         </div>
     </div>
     {{ partial "footer.html" . }}
