@@ -81,6 +81,7 @@ hr {
   height: auto;
   /*margin: 0 auto;*/
   margin:0 50px;
+  float:left;
 }
 
 .list_with_title .container {
@@ -742,5 +743,6 @@ a.back_to_top:hover span {
 .sidebar{
   width: 250px;
   margin:0 50px 0 0;
+  float:right;
 }
 /* sidebar ends */
