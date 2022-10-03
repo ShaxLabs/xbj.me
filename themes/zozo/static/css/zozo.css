@@ -575,8 +575,11 @@ hr {
 }
 
 .markdown img {
-  max-width: 90%;
+  /*max-width: 90%;*/
+  max-width:60%;
   height: auto;
+  margin: 20px auto;
+  display:block;
 }
 
 table {
